@@ -8,3 +8,4 @@
 
 
 ## Workflow used in genome analysis
+## MLST typing of *P. aeruginosa* and *K. pneumoniae* genomes
