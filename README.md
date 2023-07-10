@@ -1,10 +1,10 @@
 # Pangenome
 **This repository is associated with genomic analysis of *Pseudomonas aeruginosa* and *Klebsiella pneumoniae* bacteria**.
 
-## chewBBACA
+## Download of genomes
 
-To download ChewBBACA access the link:
+*P. aeruginosa* and *K. pneumoniae* genomes were obtained from NCBI/RefSeq on 11/29/2022. At this date, 7249 genomes were available for *P. aeruginosa* in RefSeq. On the other hand, for *K. pnuemoniae* 15064 genomes were available in RefSeq.
 
-* https://github.com/B-UMMI/chewBBACA_tutorial
 
-## Workflow used to create the scheme
+
+## Workflow used in genome analysis
