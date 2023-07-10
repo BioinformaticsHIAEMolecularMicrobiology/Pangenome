@@ -9,3 +9,4 @@
 
 ## Workflow used in genome analysis
 ## MLST typing of *P. aeruginosa* and *K. pneumoniae* genomes
+The genomes of *P. aeruginosa* were typed with the script available at (https://github.com/tseemann/mlst) using the MLST scheme for *P. aeruginosa*. 
